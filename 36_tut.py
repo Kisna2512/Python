@@ -10,7 +10,6 @@
 
 # from math import *
 # result = pi*4
-# print(result)
 
-import math as m
-print(m.sqrt(16))
+# import math as m
+# print(m.sqrt(16))
