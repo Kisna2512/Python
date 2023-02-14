@@ -13,3 +13,7 @@
 
 # import math as m
 # print(m.sqrt(16))
+
+import math
+# It will give all functions
+print(dir(math))
